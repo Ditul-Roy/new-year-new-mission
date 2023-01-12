@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    font-family: 'open sense',sens sans-serif;
+}
+.banner{
+    height:700px;
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 216px 230px 24px 848px;
+    margin-bottom: 100px;
+}
+.banner-title{
+    font-size: 50px;
+    color: #151414;
+}
+.benner-description{
+    font-size: 16px;
+    color: #444344;
+    margin: 20px auto;
+    
+}
+.btn-primary{
+    border: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #f15b22;
+    padding: 10px 25px;
+}
+/* main container style*/
+.previous-section{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.failure-section{
+    padding: 250px 150px; 
+}
+.failure-title{
+    font-size: 35px;
+    color: #151414;
+}
+.failure-description{
+    font-size: 15px;
+    color:#444344;
+    margin: 10px auto;
+}
+.list-items{
+    list-style: none;
+    font-size: 15px;
+    color:#444344;
+}
+/* plans section style */
+.primary-title{
+   font-size: 35px;
+   color: #151414; 
+   text-align: center;
+   margin: 50px auto;
+}
+.learning-section{
+    display: flex;
+    justify-content: space-around;
+}
+.primary-subtite{
+    font-size: 25px;
+    text-align: center;
+    margin: 10px 0;
+}
+.description-section{
+    font-size: 22px;
+    color: #737272;
+
+}
+/* learning icons position setup start */
+.learning-icons1{
+    padding-left:49px;
+}
+.learning-icons2{
+    padding-left: 85px;
+}
+.learning-icons3{
+    padding-left: 35px;
+}
+.learning-icons4{
+    padding-left: 20px;
+}
+/* learning icon position setup end */
+
+/* guidline section style */
+.guidlines-title{
+    font-size: 
+}
+.institutions-section{
+    display: flex;
+    justify-content: space-around;
+}
+.instt-image{
+    padding-left: 125px;
+}
+.instt-image1{
+    padding-left: 55px;
+}
+/* set your mindset section */
+.main-container-area{
+    margin: 100px 130px;
+    height: 300px;
+    background-image: linear-gradient(rgba(3, 168, 244, 0.507),rgba(22, 18, 18, 0.74)), url(../images/watch.png);
+    border-radius: 10px;
+}
+.container-title{
+    font-size: 35px;
+    color: #ffffff;
+    padding: 60px 500px 20px 65px;
+}
+.btn-secoundery{
+    background-color: #e2ecf5;
+    color: #f15b22;
+    margin: 0 500px 10px 65px;
+    border: none;
+    padding:10px 20px;
+    border-radius: 5px;
+}
+/* footer section style */
+.contact-container{
+    display: flex;
+    justify-content: space-around;
+    color: #ffffff;
+    background-color: #151414;
+    gap: 200px;
+}
+.contact-content{
+    padding: 130px 0 130px 100px;
+}
+.contact-container a{
+    margin: 10px;
+    text-decoration: none;
+}
+.contact-title{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.contact-section{
+    margin: 10px auto;
+}
+.subcribe-content{
+   padding: 130px 230px 0 0;
+}
+.subcribe-content input[type="email"]{
+    height: 50px;
+    width: 325px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    margin: 10px auto;
+    background-color: #151414;
+}
+.btn-secoundery2{
+    background-color: #e2ecf5;
+    color: #f15b22;
+    border: none;
+    padding:10px 20px;
+    border-radius: 5px;
+}
